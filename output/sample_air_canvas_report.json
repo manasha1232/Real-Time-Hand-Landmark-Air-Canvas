@@ -1,0 +1,35 @@
+{
+    "project": "Real-Time Hand Landmark Air Canvas",
+    "day": 24,
+    "status": "SUCCESS",
+    "resolution": {
+        "width": 1280,
+        "height": 720
+    },
+    "performance": {
+        "total_frames_processed": 90,
+        "execution_duration_sec": 3.993,
+        "average_fps": 22.54
+    },
+    "canvas_metrics": {
+        "total_drawing_strokes": 89,
+        "total_distance_pixels": 1839.62,
+        "color_usage_counts": {
+            "BLUE": 90,
+            "GREEN": 0,
+            "RED": 0,
+            "YELLOW": 0,
+            "PURPLE": 0,
+            "ERASER": 0
+        },
+        "gesture_mode_counts": {
+            "DRAW": 90,
+            "SELECTION": 0,
+            "HOVER": 0
+        }
+    },
+    "output_files": {
+        "montage_image": "output\\sample_air_canvas_output.jpg",
+        "telemetry_report": "output\\sample_air_canvas_report.json"
+    }
+}
